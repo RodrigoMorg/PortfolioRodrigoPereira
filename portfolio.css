@@ -1,0 +1,130 @@
+body{
+    background-color: #8196bd;
+    font-family: Helvetica, sans-serif;
+}
+section{
+    width: 700px;
+    background-color: white;
+    margin: auto;
+    margin-top: 4%;
+    border-radius: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-shadow:  3px 1px 1px rgba(0, 0, 0, 0.137);
+}
+
+/*--------------------------------paragrafos--------------------------------*/
+p{
+    text-align: center;
+    color: teal;
+    font-family: Helvetica;
+    font-size: 17px;
+}
+.p2{
+    color: teal;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 30px;
+    font-weight: 100;
+    margin: 1%;
+
+}
+#p1{
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 25px;
+}
+#p3{
+    color: #047070;
+    font-size: 35px;
+    font-weight: 900;
+}
+h1{
+    text-align: center;
+    color: teal;
+    font-family: Helvetica;
+    font-size: 35px; 
+}
+#h1{
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.Phabi{
+    float: right;
+    width: 590px;
+    margin-bottom: 30px; 
+}
+.PHabi, p{
+    text-align: left;
+}
+.textD{
+    font-size: 15px;
+}
+/*--------------------------------botões-----------------------------------*/
+#botão1{
+    margin-left: 36%;
+    color: white;
+    font-weight: 700;
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #0f5757;
+    margin-bottom: 3%;
+    border: 1px solid;
+    outline: none;
+    
+}
+#botão2{
+    color:rgb(15, 87, 87);
+    font-weight: 700;
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    background-color:white;
+    margin-bottom: 3%;
+    border: 1px solid;
+    outline: none;
+    margin-left: 10px;
+}
+#botão1:active{
+    color: #0f5757;
+    background-color: white;
+}
+#botão2:active{
+    color: white;
+    background-color: #0f5757;
+}
+#botão2:hover{
+    cursor: pointer;
+    box-shadow:  0px 1px 10px rgba(0, 0, 0, 0.753);
+}
+#botão1:hover{
+    cursor: pointer;
+    box-shadow:  0px 1px 10px rgba(0, 0, 0, 0.753);
+}
+/*--------------------------------Fotos-------------------------------------*/
+#fotoperfil{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+#foto{
+    margin: auto;
+    width: 700px;
+    padding-left: 32% ;
+    padding-top: 50px;
+}
+.tecno{
+    margin-right: 10px;
+    max-width: 100px;
+    max-height: 100px;
+    float: left;
+    margin-bottom: 20px;
+}
+/*--------------------------------Divs---------------------------------------*/
+
+#section{
+    height: 1015px;
+    margin-bottom: 90px;
+}
+
